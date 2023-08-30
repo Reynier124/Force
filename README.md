@@ -2,8 +2,7 @@
 # Configuration Example
 
 # CircleCI Badge
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/dqmdz/pr_template/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/dqmdz/pr_template/tree/main)
-
+[![CircleCI](https://circleci.com/gh/Reynier124/python_app.svg?style=svg)](https://circleci.com/gh/Reynier124/python_app)
 
 # Maintainability
 [![Maintainability](https://api.codeclimate.com/v1/badges/0ec7370e3d26f088a72a/maintainability)](https://codeclimate.com/github/Reynier124/Force/maintainability)
